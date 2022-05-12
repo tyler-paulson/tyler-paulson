@@ -1,4 +1,4 @@
-- 👨‍🏫 I teach Intro to UI Design and Web Technologies at [ArtCenter](https://www.artcenter.edu/).
+- 👨‍🏫 I teach Intro to UI Design and Web Technologies at my alma matter [ArtCenter](https://www.artcenter.edu/).
 - 👨‍💻 I do contract development work for [Whiteboard](https://www.whiteboard.is) and Riot New Media, the creators of [TBR](https://mytbr.co).
 - 🔌 I co-founded the WordPress hosting company [Grid & Arrow](https://gridandarrow.com).
 - 🏡 I'm a husband and father of three.
